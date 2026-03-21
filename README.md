@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Enrique%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Deep%20Learning%20Researcher&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="banner.jpeg" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
