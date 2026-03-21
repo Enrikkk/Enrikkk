@@ -2,17 +2,26 @@
   <img src="banner.jpeg" width="100%" alt="Banner"/>
 </div>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/186729573?v=4" width="130" style="border-radius: 50%;" alt="Enrique"/>
-</div>
-
 <br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Enrique+%F0%9F%91%8B;CS+Student+%40+Universidad+de+Murcia+%F0%9F%87%AA%F0%9F%87%B8;Exchange+Year+%40+Univ.+of+New+Orleans+%F0%9F%87%BA%F0%9F%87%B8;Deep+Learning+%26+ML+Researcher+%F0%9F%A7%A0;Always+learning+new+things..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Enrique+%F0%9F%91%8B;CS+Student+%40+Universidad+de+Murcia+%F0%9F%87%AA%F0%9F%87%B8;Exchange+Year+%40+Univ.+of+New+Orleans+%F0%9F%87%BA%F0%9F%87%B8;Deep+Learning+%26+AI+Researcher+%F0%9F%A7%A0;Turning+math+into+intelligent+systems..." alt="Typing SVG" />
   </a>
 </div>
+
+---
+
+### 🧠 About Me
+
+I'm a **Computer Science student** from **Universidad de Murcia** 🇪🇸, currently on an exchange year at the **University of New Orleans** 🇺🇸.
+
+My passion lies at the intersection of **mathematics and intelligence** — I love understanding *why* deep learning models work, not just how to use them. From deriving loss functions by hand to building and training neural networks from scratch, I'm driven by a deep curiosity for the theoretical foundations of AI.
+
+- 🎓 BSc Computer Science — Universidad de Murcia (exchange @ UNO)
+- 🔬 Focused on **Deep Learning**, neural network theory, and applied ML research
+- 📐 Strong interest in the **math behind the models** — optimization, linear algebra, probability
+- 🌍 From Spain, currently based in New Orleans
 
 ---
 
