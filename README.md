@@ -1,32 +1,46 @@
-# Hi, I'm Enrique 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Enrique%20Hernández&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Deep%20Learning%20Researcher&descAlignY=60&descAlign=50" width="100%"/>
+</div>
 
-CS student from **Universidad de Murcia** 🇪🇸, currently studying abroad at the **University of New Orleans** 🇺🇸.
-Researcher and Deep Learning enthusiast.
+## Hi, I'm Enrique 👋
 
----
-
-## About Me
-
-- 🎓 Studying **Computer Science** — exchange year at UNO
-- 🔬 Passionate about **Deep Learning** and applied ML research
-- 🌍 From Spain, currently based in New Orleans
+I'm a **Computer Science student** from **Universidad de Murcia** 🇪🇸, currently on an exchange year at the **University of New Orleans** 🇺🇸.
+Passionate about **Deep Learning** and applied ML research — I love understanding the math behind the models.
 
 ---
 
-## Skills & Tools
+### 📊 GitHub Statistics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enrikkk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enrikkk&layout=donut&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## Connect
+### 🛠️ Skills & Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-hernandez-noguera/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ehernan8@uno.edu)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,jupyter,latex&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-hernandez-noguera/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehernan8@uno.edu)
+
+</div>
