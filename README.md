@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Enrique+%F0%9F%91%8B;CS+Student+%40+Universidad+de+Murcia+%F0%9F%87%AA%F0%9F%87%B8;Exchange+Year+%40+Univ.+of+New+Orleans+%F0%9F%87%BA%F0%9F%87%B8;Deep+Learning+%26+AI+Researcher+%F0%9F%A7%A0;Turning+math+into+intelligent+systems..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Enrique+%F0%9F%91%8B;CS+Researcher+%7C+Deep+Learning+%7C+Computer+Vision;Building+intelligent+systems+with+PyTorch+%F0%9F%A7%A0;Object+Detection+%7C+Edge+AI+%7C+Robotics;From+Spain+%F0%9F%87%AA%F0%9F%87%B8+studying+in+New+Orleans+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,14 +14,14 @@
 
 ### 🧠 About Me
 
-I'm a **Computer Science student** from **Universidad de Murcia** 🇪🇸, currently on an exchange year at the **University of New Orleans** 🇺🇸.
+I'm a **Computer Science undergraduate** (GPA 3.6) jointly enrolled at the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, with international research experience in both countries.
 
-My passion lies at the intersection of **mathematics and intelligence** — I love understanding *why* deep learning models work, not just how to use them. From deriving loss functions by hand to building and training neural networks from scratch, I'm driven by a deep curiosity for the theoretical foundations of AI.
+My work sits at the intersection of **Deep Learning, Computer Vision, and Edge AI**. I engineer end-to-end deep learning pipelines — from model design and training to real-world deployment on robotic systems. I'm particularly drawn to object detection architectures (YOLO, Faster R-CNN, ResNet) and making intelligent models run efficiently at the edge.
 
-- 🎓 BSc Computer Science — Universidad de Murcia (exchange @ UNO)
-- 🔬 Focused on **Deep Learning**, neural network theory, and applied ML research
-- 📐 Strong interest in the **math behind the models** — optimization, linear algebra, probability
-- 🌍 From Spain, currently based in New Orleans
+- 🔬 **Undergraduate Researcher** @ Canizaro Livingston Gulf States Center for Environmental Informatics — building PyTorch pipelines for automated defect detection in infrastructure, deployed on a Jackal Clearpath robot via ROS
+- 🏛️ **Former Researcher** @ Universidad de Murcia — computational research on graph processing efficiency and performance benchmarking
+- 🎓 Relevant coursework: Machine Learning, NLP, Intelligent Agents, AI in Gaming, Algorithms, Compilers, OS, Distributed Systems
+- 🌍 Spanish native, advanced English — comfortable in international research environments
 
 ---
 
@@ -48,9 +48,17 @@ My passion lies at the intersection of **mathematics and intelligence** — I lo
 
 ### 🛠️ Skills & Tools
 
+**Languages**
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,jupyter,latex,vscode,linux&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,js,html,css,verilog&theme=dark" alt="Languages" />
+  </a>
+</div>
+
+**ML / AI & Tools**
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,ros,git,github,jupyter,vscode,linux,latex&theme=dark" alt="ML & Tools" />
   </a>
 </div>
 
