@@ -14,12 +14,11 @@
 
 ### 🧠 About Me
 
-I'm a **Computer Science undergraduate** (GPA 3.6) jointly enrolled at the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, with international research experience in both countries.
+I'm a **Computer Science undergraduate** (GPA 3.6) jointly enrolled at the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, with international academic experience in both countries.
 
 My work sits at the intersection of **Deep Learning, Computer Vision, and Edge AI**. I engineer end-to-end deep learning pipelines — from model design and training to real-world deployment on robotic systems. I'm particularly drawn to object detection architectures (YOLO, Faster R-CNN, ResNet) and making intelligent models run efficiently at the edge.
 
 - 🔬 **Undergraduate Researcher** @ Canizaro Livingston Gulf States Center for Environmental Informatics — building PyTorch pipelines for automated defect detection in infrastructure, deployed on a Jackal Clearpath robot via ROS
-- 🏛️ **Former Researcher** @ Universidad de Murcia — computational research on graph processing efficiency and performance benchmarking
 - 🎓 Relevant coursework: Machine Learning, NLP, Intelligent Agents, AI in Gaming, Algorithms, Compilers, OS, Distributed Systems
 - 🌍 Spanish native, advanced English — comfortable in international research environments
 
