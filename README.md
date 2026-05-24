@@ -12,70 +12,31 @@
 
 ---
 
-### 🧠 About Me
+## 👋 Hey, I'm Enrique
 
-I'm a **Computer Science undergrad** split between the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, and a machine-learning researcher with a deep passion for **Deep Learning**. I love the whole journey — from sketching a model on a whiteboard to watching it actually run in the real world.
+I'm a Computer Science undergrad split between the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, and a machine-learning researcher with a deep passion for **Deep Learning**. I love the whole journey — from sketching a model on a whiteboard to watching it actually run in the real world.
 
-- 🔬 **Undergraduate Researcher** @ Canizaro Livingston Gulf States Center for Environmental Informatics — building PyTorch pipelines for automated defect detection in infrastructure, deployed on a Jackal Clearpath robot via ROS
-- 👁️ Especially drawn to object detection (YOLO, Faster R-CNN, ResNet) and making intelligent models run efficiently at the edge
-- 🌍 Spanish native, advanced English — at home in international research environments
+## 🧠 Deep Learning is my home base
 
----
+I love exploring it across:
 
-### 🚀 Deep Learning is my home base
+`Computer Vision` · `Neural Operators` · `NLP` · `Agentic Systems`
 
-<div align="center">
+## 🔬 What I'm working on
 
-`Computer Vision`  ·  `Neural Operators`  ·  `NLP`  ·  `Agentic Systems`
+As an **undergraduate researcher** at the Gulf States Center for Environmental Informatics, I build PyTorch pipelines for automated defect detection in infrastructure — and get them running on a Jackal Clearpath robot via ROS. I'm especially into object detection (YOLO, Faster R-CNN, ResNet) and squeezing intelligent models down to run efficiently at the edge.
 
-</div>
+## 🛠️ My toolbox
 
----
+**Languages:** Python · Java · C · C++ · R · JavaScript · HTML · CSS
 
-### 📊 GitHub Statistics
+**ML / AI & Tools:** PyTorch · TensorFlow · scikit-learn · OpenCV · ROS · Git · Jupyter · VS Code · Linux · LaTeX
 
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enrikkk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enrikkk&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Enrikkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🛠️ Skills & Tools
-
-**Languages**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,js,html,css&theme=dark" alt="Languages" />
-  </a>
-</div>
-
-**ML / AI & Tools**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,ros,git,github,jupyter,vscode,linux,latex&theme=dark" alt="ML & Tools" />
-  </a>
-</div>
-
----
-
-### 📫 Connect with me
+## 📫 Say hi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badam-tsss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-hernandez-noguera/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehernan8@uno.edu)
 
 </div>
