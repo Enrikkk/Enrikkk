@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpeg" width="100%" alt="Banner"/>
+  <img src="visuals/banner.jpeg" width="100%" alt="Banner"/>
 </div>
 
 <br/>
@@ -38,7 +38,7 @@ I love exploring it across:
 <table>
 <tr>
 <td valign="middle" width="250" align="center">
-<img src="jackal-image.jpeg" width="216" alt="Enrique with the Clearpath Jackal robot" />
+<img src="visuals/jackal-image.jpeg" width="216" alt="Enrique with the Clearpath Jackal robot" />
 </td>
 <td valign="middle">
 
