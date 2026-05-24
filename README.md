@@ -54,12 +54,13 @@ As an **undergraduate researcher** at the Gulf States Center for Environmental I
 
 **ML / AI & Tools:** PyTorch · TensorFlow · scikit-learn · OpenCV · ROS · Git · Jupyter · VS Code · Linux · LaTeX
 
-## 📫 Say hi
+## 📫 About Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-hernandez-noguera/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehernan8@uno.edu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gbOcSckAAAAJ&hl=es)
 
 </div>
 
