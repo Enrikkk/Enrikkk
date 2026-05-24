@@ -16,16 +16,13 @@
 
 <table>
 <tr>
-<td valign="middle" align="center">
-<img src="jackal-image.jpeg" height="216" alt="Enrique with the Clearpath Jackal robot" />
-</td>
 <td valign="middle">
 
 I'm a Computer Science undergrad split between the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, and a machine-learning researcher with a deep passion for **Deep Learning**. I love the whole journey — from sketching a model on a whiteboard to watching it actually run in the real world.
 
 </td>
-<td valign="middle" align="center">
-<img src="https://github.com/Enrikkk.png" height="216" alt="Enrique Hernández" />
+<td valign="middle" width="250" align="center">
+<img src="https://github.com/Enrikkk.png" width="216" alt="Enrique Hernández" />
 </td>
 </tr>
 </table>
@@ -38,7 +35,18 @@ I love exploring it across:
 
 ## 🔬 What I'm working on
 
+<table>
+<tr>
+<td valign="middle" width="250" align="center">
+<img src="jackal-image.jpeg" width="216" alt="Enrique with the Clearpath Jackal robot" />
+</td>
+<td valign="middle">
+
 As an **undergraduate researcher** at the Gulf States Center for Environmental Informatics, I build PyTorch pipelines for automated defect detection in infrastructure — and get them running on a Jackal Clearpath robot via ROS. I'm especially into object detection (YOLO, Faster R-CNN, ResNet) and squeezing intelligent models down to run efficiently at the edge.
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ My toolbox
 
