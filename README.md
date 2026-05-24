@@ -22,7 +22,7 @@ I'm a Computer Science undergrad split between the **University of New Orleans**
 
 </td>
 <td valign="middle" width="250" align="center">
-<img src="https://github.com/Enrikkk.png" width="216" alt="Enrique Hernández" />
+<img src="https://github.com/Enrikkk.png" width="216" alt="Me" />
 </td>
 </tr>
 </table>
@@ -38,7 +38,7 @@ I love exploring it across:
 <table>
 <tr>
 <td valign="middle" width="250" align="center">
-<img src="visuals/jackal-image.png" width="216" alt="Enrique with the Clearpath Jackal robot" />
+<img src="visuals/jackal-image.png" width="216" alt="Me with the Clearpath Jackal robot" />
 </td>
 <td valign="middle">
 
