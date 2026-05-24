@@ -16,13 +16,16 @@
 
 <table>
 <tr>
+<td valign="middle" align="center">
+<img src="jackal-image.jpeg" height="216" alt="Enrique with the Clearpath Jackal robot" />
+</td>
 <td valign="middle">
 
 I'm a Computer Science undergrad split between the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, and a machine-learning researcher with a deep passion for **Deep Learning**. I love the whole journey — from sketching a model on a whiteboard to watching it actually run in the real world.
 
 </td>
-<td valign="middle" width="250" align="center">
-<img src="https://github.com/Enrikkk.png" width="216" alt="Enrique Hernández" />
+<td valign="middle" align="center">
+<img src="https://github.com/Enrikkk.png" height="216" alt="Enrique Hernández" />
 </td>
 </tr>
 </table>
