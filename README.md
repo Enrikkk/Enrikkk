@@ -14,11 +14,18 @@
 
 ## 👋 Hey, I'm Enrique
 
-<img src="https://github.com/Enrikkk.png" align="right" width="180" alt="Enrique Hernández" />
+<table>
+<tr>
+<td valign="middle">
 
 I'm a Computer Science undergrad split between the **University of New Orleans** 🇺🇸 and **Universidad de Murcia** 🇪🇸, and a machine-learning researcher with a deep passion for **Deep Learning**. I love the whole journey — from sketching a model on a whiteboard to watching it actually run in the real world.
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="250" align="center">
+<img src="https://github.com/Enrikkk.png" width="216" alt="Enrique Hernández" />
+</td>
+</tr>
+</table>
 
 ## 🧠 Deep Learning is my home base
 
