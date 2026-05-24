@@ -38,7 +38,7 @@ I love exploring it across:
 <table>
 <tr>
 <td valign="middle" width="250" align="center">
-<img src="visuals/jackal-image.jpeg" width="216" alt="Enrique with the Clearpath Jackal robot" />
+<img src="visuals/jackal-image.png" width="216" alt="Enrique with the Clearpath Jackal robot" />
 </td>
 <td valign="middle">
 
