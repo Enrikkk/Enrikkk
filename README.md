@@ -52,7 +52,7 @@ As an **undergraduate researcher** at the Gulf States Center for Environmental I
 
 **Languages:** Python · Java · C · C++ · R · JavaScript · HTML · CSS
 
-**ML / AI & Tools:** PyTorch · TensorFlow · scikit-learn · OpenCV · ROS · Git · Jupyter · VS Code · Linux · LaTeX
+**ML / AI & Tools:** PyTorch · TensorFlow · scikit-learn · OpenCV · ROS · wandb · SLURM (multi-GPU) · Git · Jupyter · VS Code · Linux · LaTeX
 
 ## 📫 About Me
 
